@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { View, Text, SafeAreaView, ScrollView,StyleSheet,StatusBar } from "react-native";
+import { View, Text, SafeAreaView, ScrollView,StyleSheet,StatusBar,Platform } from "react-native";
 import { useSelector } from "react-redux";
 import LottieView from "lottie-react-native";
 import firebase from "../firebase";

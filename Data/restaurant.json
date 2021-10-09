@@ -338,51 +338,7 @@
             "display_phone": "(415) 398-3181",
             "distance": 4976.893507610494
         },
-        {
-            "id": "J7_-faNq_Ag9qTOlDn81Pw",
-            "alias": "starbelly-san-francisco",
-            "name": "Starbelly",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G1SweY3VbKx_BqAws9RytA/o.jpg",
-            
-            "review_count": 1970,
-            "categories": [
-                {
-                    "alias": "comfortfood",
-                    "title": "Comfort Food"
-                },
-                {
-                    "alias": "cocktail",
-                    "title": "Cocktail "
-                },
-                {
-                    "alias": "",
-                    "title": " "
-                }
-            ],
-            "rating": 4.0,
-            
-            "transactions": [
-                "delivery",
-                "pickup"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "3583 16th St",
-                "address2": "",
-                "address3": "",
-                "city": "San Francisco",
-                "zip_code": "94114",
-                "country": "US",
-                "state": "CA",
-                "display_address": [
-                    "3583 16th St",
-                    "San Francisco, CA 94114"
-                ]
-            },
-            "phone": "+14152527500",
-            "display_phone": "(415) 252-7500",
-            "distance": 491.1178550023795
-        },
+      
         {
             "id": "-DrR38H1Abk0wCyu9XOLug",
             "alias": "sweet-maple-san-francisco",
@@ -940,47 +896,7 @@
                 "display_phone": "(212) 777-0454",
                 "distance": 2240.673403602855
             },
-            {
-                "id": "ETgJqJHV7BW6pIr9Ox74sA",
-                "alias": "amélie-new-york",
-                "name": "Amélie",
-                "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cSDgVuPMnJgMLTrTNSEXug/o.jpg",
-                "is_closed": false,
-                "review_count": 2753,
-                "categories": [
-                    {
-                        "alias": "french",
-                        "title": "French"
-                    },
-                    {
-                        "alias": "",
-                        "title": " "
-                    }
-                ],
-                "rating": 4.5,
-               
-                "transactions": [
-                    "delivery",
-                    "pickup"
-                ],
-                "price": "$$$",
-                "location": {
-                    "address1": "22 W 8th St",
-                    "address2": "",
-                    "address3": "",
-                    "city": "New York",
-                    "zip_code": "10011",
-                    "country": "US",
-                    "state": "NY",
-                    "display_address": [
-                        "22 W 8th St",
-                        "New York, NY 10011"
-                    ]
-                },
-                "phone": "+12125332962",
-                "display_phone": "(212) 533-2962",
-                "distance": 3038.8699032940094
-            },
+           
             {
                 "id": "uoT2_Wrt1noD6kZOID7tUg",
                 "alias": "jane-new-york-2",
@@ -1026,47 +942,7 @@
                 "display_phone": "(212) 254-7000",
                 "distance": 2489.9758210239006
             },
-            {
-                "id": "qEe7nIhPfEL6L0-VYhWRrA",
-                "alias": "raku-new-york-6",
-                "name": "Raku",
-                "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EQsQlLlKQjziOrGsEblCbQ/o.jpg",
-                "is_closed": false,
-                "review_count": 538,
-                "categories": [
-                    {
-                        "alias": "japanese",
-                        "title": "Japanese"
-                    },
-                    {
-                        "alias": "noodles",
-                        "title": "Noodles"
-                    }
-                ],
-                "rating": 4.5,
-               
-                "transactions": [
-                    "delivery",
-                    "pickup"
-                ],
-                "price": "$$",
-                "location": {
-                    "address1": "48 Macdougal St",
-                    "address2": null,
-                    "address3": "",
-                    "city": "New York",
-                    "zip_code": "10012",
-                    "country": "US",
-                    "state": "NY",
-                    "display_address": [
-                        "48 Macdougal St",
-                        "New York, NY 10012"
-                    ]
-                },
-                "phone": "+12129894797",
-                "display_phone": "(212) 989-4797",
-                "distance": 2522.2670460297
-            },
+            
             {
                 "id": "0CjK3esfpFcxIopebzjFxA",
                 "alias": "joes-shanghai-new-york-2",
@@ -1727,47 +1603,7 @@
 
 
             "Hollywood": [
-                {
-                    "id": "88kri8FhXy8b3DQ_QjSMmQ",
-                    "alias": "l-antica-pizzeria-da-michele-los-angeles-2",
-                    "name": "L'Antica Pizzeria Da Michele",
-                    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SCuuHjFSwNpuYxpncVDs9w/o.jpg",
-                    "is_closed": false,
-                    "review_count": 1085,
-                    "categories": [
-                        {
-                            "alias": "pizza",
-                            "title": "Pizza"
-                        },
-                        {
-                            "alias": "italian",
-                            "title": "Italian"
-                        }
-                    ],
-                    "rating": 4.5,
-                   
-                    "transactions": [
-                        "delivery",
-                        "pickup"
-                    ],
-                    "price": "$$$",
-                    "location": {
-                        "address1": "1534 N McCadden Pl",
-                        "address2": "",
-                        "address3": null,
-                        "city": "Los Angeles",
-                        "zip_code": "90028",
-                        "country": "US",
-                        "state": "CA",
-                        "display_address": [
-                            "1534 N McCadden Pl",
-                            "Los Angeles, CA 90028"
-                        ]
-                    },
-                    "phone": "+13233662408",
-                    "display_phone": "(323) 366-2408",
-                    "distance": 1164.171815332932
-                },
+               
                 {
                     "id": "RVbZaawgEGmto6TxOoVBdQ",
                     "alias": "running-goose-los-angeles",
